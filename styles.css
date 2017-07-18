@@ -1,0 +1,48 @@
+/* add your CSS here */
+.animal-picture {
+	width: 300px;
+	height: 300px;
+	border-radius: 5px;
+	display: block;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.fact-list {  
+	list-style: none;
+	padding: 10px;
+}
+
+.fact-list li {
+	margin-bottom: 5px;
+}
+
+.fact-label {
+	font-weight: bold;
+}
+
+.animal-information {
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 280px;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-right: 8px;
+}
+
+.card {
+	width: 310px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin: 0 auto 10px auto;
+	font-family: 'Trebuchet MS', sans-serif;
+	padding: 0 0 5px 10px;
+	box-shadow: 5px 5px 10px gray;
+}
+
+footer {
+	font-size: .8em;
+	padding-left: 10px;
+}
